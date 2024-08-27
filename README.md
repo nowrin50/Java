@@ -5,3 +5,6 @@ Basics:
 4. for loop
 5. while loop
 6. do while loop
+7. integer input
+8. sum
+9. product 
