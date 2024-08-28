@@ -41,4 +41,5 @@ class Main {
     }
 }
 // result 27 27 
+//both x and y are 27 because the pre-increment operator (++x) increments x before the assignment to y. Therefore, both x and y end up with the value 27
 
