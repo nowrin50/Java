@@ -26,7 +26,8 @@ class Main {
         System.out.println (y); 
     }
 }
-
+//x was incremented after y was assigned its value, so when you print x, it shows the incremented value, which is 27.
+//y was assigned 26 before x was incremented, so y still holds the value 26.
 // result 27, 26
 
 // with another value but pre
