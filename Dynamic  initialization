@@ -1,0 +1,10 @@
+//Dynamic initialization means assigning a variable's value at runtime based on an expression or calculation rather than a fixed value.
+import java.util.*;
+class DI {
+    public static void main (String[] args ) {
+        double a = 2.33;
+        double b = 3.44;
+        double c = Math.sqrt (a*a + b*b) ; // Dynamic initialization 
+        System.out.println ("Result is:" + c );
+    }
+}
