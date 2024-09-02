@@ -1,0 +1,10 @@
+
+class Character {
+    public static void main (String [] args ) {
+        char ch1 ;
+        ch1 = 'X';
+        System.out.println ("X contains " + ch1);
+        ch1++ ; 
+        System.out.println("X now contains "+ ch1);
+    }
+}
